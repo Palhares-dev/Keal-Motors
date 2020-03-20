@@ -9,7 +9,7 @@ Será incluído no banco de dados itens como modelo do carro, valor de tabela, d
 ## Autores
 
 * **Henrique Miossi** 
-* **Eduardo Ângelo**
+* **Eduardo Angelo**
 * **Gabriel Pizzani**
 * **Leandro Angeli**
 * **Matheus Ferreira**
