@@ -1,6 +1,6 @@
 # Keal Motors
 
-Esse é um trabalho de Banco de Dados 1 (UVV - Sistemas de Informação), cujo qual iremos desenvolver um projeto de banco de dados sobre a concessionária fictícia "Keal Motors". Esse estabelecimento vende carros novos e seminovos.
+Esse é um trabalho de Banco de Dados 1 (UVV - SI1Nb), cujo qual iremos desenvolver um projeto de banco de dados sobre a concessionária fictícia "Keal Motors". Esse estabelecimento vende carros novos e seminovos.
 
 ## Componentes do Banco de Dados
 
